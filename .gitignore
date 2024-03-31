@@ -1,4 +1,4 @@
-.vscode
+#.vscode
 build
 *.codeworkspace
 .DS_Store

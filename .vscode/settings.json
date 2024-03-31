@@ -1,0 +1,9 @@
+{
+    "cmake.environment": {
+        "PICO_SDK_PATH":"../../../pico-sdk",
+        "PICO_BOARD":"pico_w",
+        "WIFI_SSID":"wifi",
+        "WIFI_PASSWORD":"pass"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+}

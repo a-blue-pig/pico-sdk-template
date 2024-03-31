@@ -1,6 +1,7 @@
 # pico-sdk-template
 This repository works as a project template for the Pi Pico W.
 
+**If NOT using VSCode's `CMake-Tools` extension to configure and build, ensure that you uncomment `.vscode` from `.gitignore`.**
 # Usage
 ## Makefile Functions
 This template contains a makefile that automates build and upload to the pico w
